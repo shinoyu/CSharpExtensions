@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StandardExtensions", "StandardExtensions\StandardExtensions.csproj", "{D8FD535F-81CE-4670-A846-CF642569629D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StandardExtensions.Test", "StandardExtensions.Test\StandardExtensions.Test.csproj", "{1AF209CB-6117-40B3-A917-D2B57937D267}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AF209CB-6117-40B3-A917-D2B57937D267}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AF209CB-6117-40B3-A917-D2B57937D267}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AF209CB-6117-40B3-A917-D2B57937D267}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AF209CB-6117-40B3-A917-D2B57937D267}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8FD535F-81CE-4670-A846-CF642569629D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8FD535F-81CE-4670-A846-CF642569629D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8FD535F-81CE-4670-A846-CF642569629D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8FD535F-81CE-4670-A846-CF642569629D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = StandardExtensions\StandardExtensions.csproj
+	EndGlobalSection
+EndGlobal

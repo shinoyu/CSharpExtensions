@@ -5,7 +5,7 @@ using System.Linq;
 
 namespace StandardExtensions
 {
-	public static class LinqEx
+	public static partial class LinqEx
 	{
 		/// <summary>
 		/// Foreach the specified source and action.
@@ -60,7 +60,6 @@ namespace StandardExtensions
 			{
 				return _selector(obj).GetHashCode();
 			}
-
 		}
 	}
 }
